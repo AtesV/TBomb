@@ -81,9 +81,9 @@ def check_intr():
         sys.exit(2)
 
 
-def format_phone(num):
-    num = [n for n in num if n in string.digits]
-    return ''.join(num).strip()
+def format_phone(+905050758605):
+    +905050758605 = [n for n in +905050758605 if n in string.digits]
+    return ''.join(+905050758605).strip()
 
 
 def do_zip_update():
